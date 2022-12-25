@@ -2,14 +2,13 @@
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.6.7/firebase-app.js';
 import { getDatabase, ref, set } from 'https://www.gstatic.com/firebasejs/9.6.7/firebase-database.js';
 const firebaseConfig = {
-  apiKey: "AIzaSyA5lD4snqKI4sWCEGtmbWoIUkJ_pdRx54g",
-  authDomain: "icanbeyourdeer.firebaseapp.com",
-  databaseURL: "https://icanbeyourdeer-default-rtdb.firebaseio.com",
-  projectId: "icanbeyourdeer",
-  storageBucket: "icanbeyourdeer.appspot.com",
-  messagingSenderId: "282458903243",
-  appId: "1:282458903243:web:e2c47500f438210fe4014e",
-  measurementId: "G-LMJZXNSMR5"
+  apiKey: "AIzaSyDFE0bmQKC1ugZhZOZkVuf_yAGwy8ly-QY",
+  authDomain: "forminhtus.firebaseapp.com",
+  databaseURL: "https://forminhtus-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "forminhtus",
+  storageBucket: "forminhtus.appspot.com",
+  messagingSenderId: "594975763623",
+  appId: "1:594975763623:web:acc579024e03bfdce57f82"
 };
 
 // Firebase
